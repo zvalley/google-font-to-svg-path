@@ -243,3 +243,4 @@ window.onload = function () {
     app.init();
     app.getGoogleFonts('AIzaSyAOES8EmKhuJEnsn9kS1XKBpxxp-TgN8Jc');
 };
+//# sourceMappingURL=index.js.map

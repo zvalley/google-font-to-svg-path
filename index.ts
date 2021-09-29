@@ -19,7 +19,7 @@ class App {
     private renderDiv: HTMLDivElement;
     private outputTextarea: HTMLTextAreaElement;
     private copyToClipboardBtn: HTMLButtonElement;
-    private downloadButton: HTMLAnchorElement;
+    private downloadButton: HTMLAnchorElement; 
     private createLinkButton: HTMLAnchorElement;
     private dummy: HTMLInputElement;
     private renderCurrent = () => {
